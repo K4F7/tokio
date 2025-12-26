@@ -248,9 +248,6 @@ This project is licensed under the [MIT license].
 
 [MIT license]: https://github.com/tokio-rs/tokio/blob/master/LICENSE
 
-
-<!-- Test CI -->
-
 ### Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
